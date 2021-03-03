@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: posts
 title: "밑바닥부터 시작하는 딥러닝 10단계"
 description: "학습"
 headline: "밑바닥부터 시작하는 딥러닝 10단계"
