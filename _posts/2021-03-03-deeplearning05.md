@@ -20,6 +20,3 @@ published: true
 ![그림 5-5](https://user-images.githubusercontent.com/73815944/109748030-7f802d80-7c1b-11eb-97bd-6e7ce30df6cb.png)
 
 
-```python
-
-```

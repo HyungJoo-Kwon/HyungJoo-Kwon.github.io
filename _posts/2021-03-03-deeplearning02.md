@@ -52,6 +52,3 @@ print(y.data)
 
 
 
-```python
-
-```

@@ -82,6 +82,4 @@ print(x.grad)
 
 
 
-```python
 
-```

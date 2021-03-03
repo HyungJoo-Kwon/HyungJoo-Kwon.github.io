@@ -74,7 +74,3 @@ print(dy)
 ![그림 4-2](https://user-images.githubusercontent.com/73815944/109747959-61b2c880-7c1b-11eb-8eaa-efbd5777cbd2.png)
 
 
-
-```python
-
-```

@@ -97,6 +97,4 @@ assert 문
 
 
 
-```python
 
-```

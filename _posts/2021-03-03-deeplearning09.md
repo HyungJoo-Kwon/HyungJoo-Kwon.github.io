@@ -138,7 +138,3 @@ print(type(y))                  # 타입 변화
     <class 'numpy.float64'>
     
 
-
-```python
-
-```
