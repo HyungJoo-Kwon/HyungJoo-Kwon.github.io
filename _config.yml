@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "권형주"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/holl.gif"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            : "joo9437@naver.com"
