@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: "처음 만나는 AI수학 with 파이썬 책 리뷰 - 수포자, 비전공자를 위한 수학"
 description: "처음 만나는 AI수학 with 파이썬 책 리뷰를 진행해 보도록 하겠습니다."
 headline: "처음 만나는 AI수학 with 파이썬 책 리뷰를 진행해 보도록 하겠습니다."

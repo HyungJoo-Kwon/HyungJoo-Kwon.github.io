@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "밑바닥부터 시작하는 딥러닝 2단계"
 description: "학습"
 headline: "밑바닥부터 시작하는 딥러닝 2단계"
