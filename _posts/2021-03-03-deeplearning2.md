@@ -7,10 +7,9 @@ categories: deeplearnig
 comments: true
 published: true
 ---
-# Function 클래스
+# Function 클래스   
+
 ```python
-
-
 import numpy as np
 
 

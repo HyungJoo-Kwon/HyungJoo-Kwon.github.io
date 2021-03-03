@@ -7,10 +7,9 @@ categories: deeplearnig
 comments: true
 published: true
 ---
-# 합성함수
+# 합성함수  
+    
 ```python
-
-
 import numpy as np
 
 

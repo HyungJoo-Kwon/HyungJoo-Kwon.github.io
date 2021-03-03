@@ -7,10 +7,9 @@ categories: deeplearnig
 comments: true
 published: true
 ---
-# 미분
+# 미분   
+    
 ```python
-
-
 import numpy as np
 
 class Variable:
