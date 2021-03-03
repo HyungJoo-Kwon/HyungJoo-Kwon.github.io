@@ -7,9 +7,9 @@ categories: deeplearnig
 comments: true
 published: true
 ---
-
+# 미분
 ```python
-## 미분
+
 
 import numpy as np
 

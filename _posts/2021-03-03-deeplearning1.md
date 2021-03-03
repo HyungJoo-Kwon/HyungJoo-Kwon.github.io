@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "밑바닥부터 시작하는 딥러닝 1단계"
 description: "학습"
 headline: "밑바닥부터 시작하는 딥러닝 1단계"
@@ -7,10 +7,10 @@ categories: deeplearnig
 comments: true
 published: true
 ---
-
+# Variable 클래스
 
 ```python
-## Variable 클래스
+
 
 import numpy as np
 
