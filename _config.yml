@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "HyungJoo Git"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "권형주"
-  avatar           : "C:\Users\w\Desktop\HyungJoo-Kwon.github.io\images\holl.gif" #"/images/holl.gif"
+  avatar           : <img src="C:\Users\w\Desktop\HyungJoo-Kwon.github.io\assets\images\holl.gif" width="100" height="100">  # "/assets/images/holl.gif"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            : "joo9437@naver.com"
