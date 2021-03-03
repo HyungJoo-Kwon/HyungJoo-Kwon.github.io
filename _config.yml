@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "HyungJoo Git"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "HyungJoo-Kwon"
 description              : "An amazing website."
 url                      : "https://hyungjoo-kwon.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "권형주"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
-  email            :
+  email            : "joo9437@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -114,7 +114,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/HyungJoo-Kwon"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
