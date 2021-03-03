@@ -8,7 +8,7 @@ comments: true
 published: true
 ---
 # Variable 클래스   
-    
+
 ```python
 import numpy as np
 
