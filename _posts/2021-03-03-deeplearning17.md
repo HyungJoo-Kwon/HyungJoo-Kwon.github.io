@@ -115,7 +115,7 @@ def square(x):
 2. garbage collection (쓸모없어진 객체를 회수하는 방식) 
 
 
-![17-2](/img/17-2.png)     
+![17-2]/(assets/images/img/그림 17-2.png)     
 참조 카운트로 해결할 수 없는 순환 참조 문제 -> 참조 카운트가 0이 되지 않아
 
 ![17-3](./img/17-3.png)     
