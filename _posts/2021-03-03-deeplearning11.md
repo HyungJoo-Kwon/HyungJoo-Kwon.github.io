@@ -8,6 +8,7 @@ comments: true
 published: true
 ---
 # 가변 길이 인수(순전파)    
+
 ```python
 
 

@@ -8,6 +8,7 @@ comments: true
 published: true
 ---
 # 같은 변수 반복 사용의 문제 해결   
+
 ```python
 
 import numpy as np

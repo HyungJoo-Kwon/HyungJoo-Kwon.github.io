@@ -8,6 +8,7 @@ comments: true
 published: true
 ---
 # 메모리 관리와 순환 참조   
+
 ```python
                               
 import weakref
