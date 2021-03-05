@@ -7,7 +7,7 @@ categories: deeplearnig
 comments: true
 published: true
 ---
-# 가변 길이 인수(개선)
+# 가변 길이 인수(개선)  
 ```python
 
 import numpy as np
@@ -102,6 +102,4 @@ print( f(1,2,3,4,5,6) )
     
 
 
-```python
 
-```

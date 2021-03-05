@@ -7,7 +7,7 @@ categories: deeplearnig
 comments: true
 published: true
 ---
-# 가변 길이 인수 (역전파 편)
+# 가변 길이 인수 (역전파 편)    
 ```python
 
 import numpy as np
@@ -120,6 +120,3 @@ print(y.grad)
 
 
 
-```python
-
-```

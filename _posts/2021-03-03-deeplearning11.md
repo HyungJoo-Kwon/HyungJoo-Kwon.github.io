@@ -7,7 +7,7 @@ categories: deeplearnig
 comments: true
 published: true
 ---
-# 가변 길이 인수(순전파)
+# 가변 길이 인수(순전파)    
 ```python
 
 
@@ -91,7 +91,3 @@ print(type(y.data))
     <class 'numpy.ndarray'>
     
 
-
-```python
-
-```

@@ -7,7 +7,7 @@ categories: deeplearnig
 comments: true
 published: true
 ---
-# 메모리 관리와 순환 참조 
+# 메모리 관리와 순환 참조   
 ```python
                               
 import weakref
@@ -118,7 +118,7 @@ def square(x):
 ![17-2](/assets/images/img/그림 17-2.png)     
 참조 카운트로 해결할 수 없는 순환 참조 문제 -> 참조 카운트가 0이 되지 않아
 
-![17-3](./img/17-3.png)     
+![17-3](/assets/images/img/그림 17-3.png)     
 Function 인스턴스와 Variable 인스턴스가 순환 참조 관계를 만든다.
 
 
@@ -151,6 +151,6 @@ for i in range(10):
     y = square(square(square(x)))
 ```
 
-![17-4](./img/17-4.png)
+![17-4](/assets/images/img/그림 17-4.png)
 
 파이썬 메모리 사용량을 측정하려면 외부 라이브러리인 memory profiler 사용 시 확인 가능
