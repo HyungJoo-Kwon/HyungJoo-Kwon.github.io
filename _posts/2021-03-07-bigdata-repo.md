@@ -1,4 +1,12 @@
-
+---
+layout: page
+title: "빅데이터 분석 기사 참고"
+description: "학습"
+headline: "빅데이터 분석 기사"
+categories: bigdata_certificate
+comments: true
+published: true
+---
 
 - NoSQL - 데이터 저장에 고정된 테이블 스키마가 필요하지 않고 Join연산을 사용할 수 없으며, 수평적으로 확장이 가능한 DBMS
 - 하둡 분산 파일 시스템 (HDFS) - 대용량 파일을 분산된 서버에 저장하고, 그 저장된 데이터를 빠르게 처리할 수 있게 하는 시스템

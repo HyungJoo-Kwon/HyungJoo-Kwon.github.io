@@ -1,3 +1,13 @@
+---
+layout: page
+title: "빅데이터 분석 기사 참고"
+description: "학습"
+headline: "빅데이터 분석 기사"
+categories: bigdata_certificate
+comments: true
+published: true
+---
+
 # 빅데이터 분석 기획
 
 ### 1. 빅데이터의 이해
