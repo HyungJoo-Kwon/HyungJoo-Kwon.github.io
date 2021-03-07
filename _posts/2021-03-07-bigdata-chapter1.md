@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "빅데이터 분석 기사 참고"
+title: "빅데이터 분석 기사 01"
 description: "학습"
 headline: "빅데이터 분석 기사"
 categories: bigdata_certificate
