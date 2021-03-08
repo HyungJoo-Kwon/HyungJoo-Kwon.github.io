@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Kwon Hyungjoo"
-  avatar           : "/assets/images/holl2.gif" #<img src="C:\Users\w\Desktop\HyungJoo-Kwon.github.io\assets\images\holl.gif" width="100" height="100">  
+  avatar           : <img src="/assets/images/holl2.gif" width="200" height="200"> # "/assets/images/holl2.gif"   
   bio              : "Trust me"
   location         : "Korea"
   email            : "joo9437@naver.com"
