@@ -8,6 +8,7 @@ comments: true
 published: true
 ---
 # 2차 미분 자동 계산    
+
 ```python
 
 if '__file__' in globals():

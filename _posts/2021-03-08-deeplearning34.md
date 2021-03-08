@@ -8,6 +8,7 @@ comments: true
 published: true
 ---
 # sin 함수 고차 미분    
+
 ```python
 if '__file__' in globals():
     import os, sys

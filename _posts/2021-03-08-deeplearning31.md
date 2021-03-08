@@ -8,6 +8,7 @@ comments: true
 published: true
 ---
 # 고차 미분(이론)   
+
 ```python
 class Sin(Function):
     ...

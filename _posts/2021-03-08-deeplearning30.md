@@ -8,6 +8,7 @@ comments: true
 published: true
 --- 
 # 고차 미분(준비)   
+
 ```python
 class Variable:
     def __init__(self, data, name=None):

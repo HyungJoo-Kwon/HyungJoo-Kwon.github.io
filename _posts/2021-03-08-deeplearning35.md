@@ -8,6 +8,7 @@ comments: true
 published: true
 ---
 # 고차 미분 계산 그래프     
+
 ```python
 if '__file__' in globals():
     import os, sys

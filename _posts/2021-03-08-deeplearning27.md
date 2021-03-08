@@ -8,6 +8,7 @@ comments: true
 published: true
 ---
 # 테일러 급수 미분  
+
 ```python
 # 테일러 급수란 어떤 함수를 다항식으로 근사하는 방법.
 if '__file__' in globals():

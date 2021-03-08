@@ -8,6 +8,7 @@ comments: true
 published: true
 ---
 # 고차 미분(구현)   
+
 ```python
 # dezero/core.py 새로 구현
 class Variable: 

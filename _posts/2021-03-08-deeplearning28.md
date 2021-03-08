@@ -8,6 +8,7 @@ comments: true
 published: true
 ---
 # 함수 최적화   
+
 ```python
 
 # 로젠브록 함수의 최솟값을 경사하강법으로.
