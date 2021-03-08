@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "권형주"
   avatar           : "/assets/images/holl2.gif" #<img src="C:\Users\w\Desktop\HyungJoo-Kwon.github.io\assets\images\holl.gif" width="100" height="100">  
-  bio              : "뭐든 할 수 있다"
-  location         : "Korea"
+  bio              : "I am an **amazing** person.1"
+  location         : "Somewhere"
   email            : "joo9437@naver.com"
   links:
     - label: "Email"
