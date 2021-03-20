@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "빅데이터 분석 기사 01"
+title: "빅데이터 분석 기사 1-1"
 description: "학습"
 headline: "빅데이터 분석 기사"
 categories: bigdata_certificate
@@ -154,7 +154,7 @@ published: true
 
 
 
-​  5) 역량 모델링 
+  5) 역량 모델링 
 
 > ① 역량 모델 : 우수 성과자의 행동하는 특성을 파악하여 업무 달성을 위한 지식, 스킬, 태도 등 직무 역량 요소들을 도출한 것
 >
